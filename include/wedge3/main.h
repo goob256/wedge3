@@ -1,7 +1,7 @@
 #ifndef WEDGE3_MAIN_H
 #define WEDGE3_MAIN_H
 
-#include <shim3/shim3.h>
+#include <shim4/shim4.h>
 
 #ifdef _WIN32
 #ifdef WEDGE3_STATIC
